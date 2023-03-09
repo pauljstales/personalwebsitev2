@@ -102,6 +102,7 @@ function App() {
                     </a>
                     .
                 </p>
+                <p>Note: You will need to be logged in to view the recommendations!</p>
             </section>
             <section className='section'>
                 <h1>Contact Me</h1>
