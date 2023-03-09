@@ -35,6 +35,7 @@ function App() {
                     </a>
                     .
                 </p>
+                <p>Note: You will need to be logged in to view the recommendations!</p>
                 <p>You can contact me on LinkedIn, or email me at my full name (no spaces) at gmail.</p>
             </section>
 
