@@ -82,10 +82,10 @@ function App() {
                 <p>Create software that has a positive impact on people's lives.</p>
                 <p>What kind of positive impact? Software that</p>
                 <ul>
-                    <li>-- save people time --</li>
-                    <li>-- helps them achieve their goals --</li>
-                    <li>-- makes or saves them money --</li>
-                    <li>-- gives them a pleasant escape --</li>
+                    <li>save people time</li>
+                    <li>helps them achieve their goals</li>
+                    <li>makes or saves them money</li>
+                    <li>gives them a pleasant escape</li>
                 </ul>
             </section>
             <section className='section'>
