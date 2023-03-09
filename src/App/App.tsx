@@ -56,7 +56,7 @@ function App() {
                 <p>And so I did.</p>
             </header>
             <section className='section'>
-                <h1>Full-Stack Developer</h1>
+                <h1>Full-Stack Dev</h1>
                 <p>I love the entire world of software, from the edge of the web to the depths of the database.</p>
                 <p>
                     I use <b>reactjs</b> for the frontend. I know CSS3 flexbox and grid, though these days I prefer to
