@@ -35,12 +35,11 @@ function App() {
                     </a>
                     .
                 </p>
-                <p>Note: You will need to be logged in to view the recommendations!</p>
                 <p>You can contact me on LinkedIn, or email me at my full name (no spaces) at gmail.</p>
             </section>
 
             <header className='section'>
-                <h1>A History of p.js</h1>
+                <h1>History of p.js</h1>
                 <p>
                     My original college major was mechanical engineering. While interesting and enjoyable, I took a
                     programming course and was fascinated. I knew early on I had to switch majors.{' '}
@@ -57,7 +56,7 @@ function App() {
                 <p>And so I did.</p>
             </header>
             <section className='section'>
-                <h1>I am a Full-Stack Developer.</h1>
+                <h1>Full-Stack Developer</h1>
                 <p>I love the entire world of software, from the edge of the web to the depths of the database.</p>
                 <p>
                     I use <b>reactjs</b> for the frontend. I know CSS3 flexbox and grid, though these days I prefer to
@@ -79,18 +78,18 @@ function App() {
                 </p>
             </section>
             <section className='section'>
-                <h1>My Goal in Software</h1>
+                <h1>My Goal</h1>
                 <p>Create software that has a positive impact on people's lives.</p>
                 <p>What kind of positive impact? Software that</p>
                 <ul>
-                    <li>save people time</li>
-                    <li>helps them achieve their goals</li>
-                    <li>makes or saves them money</li>
-                    <li>gives them a pleasant escape</li>
+                    <li>-- save people time --</li>
+                    <li>-- helps them achieve their goals --</li>
+                    <li>-- makes or saves them money --</li>
+                    <li>-- gives them a pleasant escape --</li>
                 </ul>
             </section>
             <section className='section'>
-                <h1>What is it Like to Work with Me?</h1>
+                <h1>Working with Me</h1>
                 <p>My colleagues would describe me as passionate, thorough, and clear.</p>
                 <p>
                     But you can read it for yourself, on my{' '}
@@ -103,7 +102,6 @@ function App() {
                     </a>
                     .
                 </p>
-                <p>Note: You will need to be logged in to view the recommendations!</p>
             </section>
             <section className='section'>
                 <h1>Contact Me</h1>
